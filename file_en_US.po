@@ -9,4 +9,4 @@ msgid "NOT_DNT"
 msgstr "translate"
 
 msgid "DNT"
-msgstr "do not translategtrnmfnfcdvsc"
+msgstr "do not translate"
