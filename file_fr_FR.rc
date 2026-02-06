@@ -1,2 +1,2 @@
-var NOT_DNT="translate"
-var DNT="do not translate"
+NOT_DNT "translate"
+DNT "do not translate"
