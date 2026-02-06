@@ -1,3 +1,4 @@
+STRINGTABLE
 BEGIN
     IDS_APP_TITLE       "Мое Приложение"
     IDS_HELLO_WORLD     "Привет, мир!"
