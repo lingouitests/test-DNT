@@ -1,0 +1,9 @@
+// Определение иконки
+IDI_APP_ICON  ICON  "res\\app.ico"
+
+// Таблица строк (ключ - ID, значение - текст)
+STRINGTABLE
+BEGIN
+IDS_APP_TITLE "14213.127055 Мое Приложение"
+IDS_HELLO_WORLD "14213.127056 Привет, мир!"
+END
