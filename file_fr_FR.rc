@@ -1,5 +1,0 @@
-STRINGTABLE
-BEGIN
- NOT_DNT "translate"
- DNT "do not translate"
-END
