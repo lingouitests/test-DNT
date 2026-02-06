@@ -1,2 +1,9 @@
-NOT_DNT "translate"
-DNT "do not translate"
+// Определение иконки
+IDI_APP_ICON  ICON  "res\\app.ico"
+
+// Таблица строк (ключ - ID, значение - текст)
+STRINGTABLE
+BEGIN
+    IDS_APP_TITLE       "Мое Приложение"
+    IDS_HELLO_WORLD     "Привет, мир!"
+END
