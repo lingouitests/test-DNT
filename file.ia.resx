@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
-  <data name="year_1">
-    <entry xml:space="preserve" key="NOT_DNT"><![CDATA[translate]]></entry>
-  </data>
-</root>
+     <data name="reset_password_ok"><value>14212.127028 OK</value></data> 
+         <data name="reset_password_ok2"><value>14212.127029 OK</value></data> 
+     <data name="reset_password_ok3"><value>14212.127030 OK</value></data> 
+  </root>
