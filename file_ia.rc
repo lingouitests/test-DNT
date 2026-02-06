@@ -1,7 +1,3 @@
-// Определение иконки
-IDI_APP_ICON  ICON  "res\\app.ico"
-
-// Таблица строк (ключ - ID, значение - текст)
 STRINGTABLE
 BEGIN
 IDS_APP_TITLE "14213.127055 Мое Приложение"
