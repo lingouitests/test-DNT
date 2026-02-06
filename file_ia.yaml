@@ -1,7 +1,6 @@
-ia:
-  testDnt:
-    testing:
-      DNT: 14215.127063 do not translate
-      NOT_DNT: 14215.127064 translate
-  NOT_DNT: 14215.127065 translate
-  DNT: 14215.127066 do not translate
+# Sample Configuration File
+company: 14215.127070 spacelift
+author: 14215.127071 omkarbirade
+published: true
+test: 14215.127073 one
+changes: false
