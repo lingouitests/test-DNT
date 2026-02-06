@@ -1,7 +1,7 @@
-en:
-  testDnt:
-    testing:
-      DNT: do not translate
-      NOT_DNT: translate
-  NOT_DNT: translate
-  DNT: do not translate
+# Sample Configuration File
+---
+company: spacelift
+author: omkarbirade
+published: true
+test: one
+changes: false
