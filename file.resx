@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<properties>
-    <entry xml:space="preserve" key="NOT_DNT"><![CDATA[translate]]></entry>
-    <entry xml:space="preserve" key="DNT"><![CDATA[do not translate]]></entry>
-</properties>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <data name="year_1">
+    <value xml:space="preserve" key="NOT_DNT"><![CDATA[translate]]></entry>
+    <value xml:space="preserve" key="DNT"><![CDATA[do not translate]]></entry>
+  </data>
+</root>
