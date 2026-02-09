@@ -3,7 +3,7 @@ msgid "DNT_AND_NOT_DNT"
 msgid_plural "DNT_AND_NOT_DNT"
 msgstr[0] "do not translate"
 msgstr[1] "translate"
-msgstr[2] "do not translate"
+msgstr[2] "do not translate22222"
 
 msgid "NOT_DNT"
 msgstr "translate"
