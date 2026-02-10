@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
-<data name="NOT_DNT"><value>14212.127031 ![CDATA[translate888888]]</value></data> 
-<data name="DNT"><value>14212.127032 ![CDATA[do not translate]]</value></data> 
+<data name="NOT_DNT"><value>14367.127817 ![CDATA[translate888888]]</value></data> 
+<data name="DNT"><value>14367.127818 ![CDATA[do not translate]]</value></data> 
+  <data name="myPrefix_one_1">
+    <value><![CDATA[14367.127819 one]]></value>
+  </data>
+  <data name="myPrefix_two_2">
+    <value><![CDATA[14367.127820 two]]></value>
+  </data>
+  <data name="myPrefix_three_3">
+    <value><![CDATA[14367.127821 three]]></value>
+  </data>
   </root>
