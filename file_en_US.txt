@@ -1,3 +1,6 @@
-1=one
-2=two
-3=three
+# Strings for use in GUI
+#################################################
+PushIfCommits,Push if commits
+CloseButtonText,Close
+ApplyButtonText,Apply
+CancelButtonText,Cancel
