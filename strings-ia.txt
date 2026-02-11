@@ -2,5 +2,5 @@
 #################################################
 PushIfCommits,14367.127827 Push if commits
 CloseButtonText,14367.127828 Close1111111
-ApplyButtonText,14367.127829 Apply
+ApplyButtonText,14367.127829 Apply29
 CancelButtonText,14367.127830 Cancel
