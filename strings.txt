@@ -2,5 +2,5 @@
 #################################################
 PushIfCommits,Push if commits
 CloseButtonText,Close1111111
-ApplyButtonText,Apply
+ApplyButtonText,Apply29
 CancelButtonText,Cancel
