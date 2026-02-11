@@ -1,6 +1,9 @@
+#test-DNT-4_main_15_373 - CHANGES-ONLY
 # Strings for use in GUI
 #################################################
 PushIfCommits,Push if commits
-CloseButtonText,Close
-ApplyButtonText,Apply
+#LRM_DO_NOT_TRANSLATE
+CloseButtonText,Close1111111
+#LRM_DO_NOT_TRANSLATE
+ApplyButtonText,Apply29
 CancelButtonText,Cancel
