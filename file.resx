@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <root>
-<data name="NOT_DNT"><value>![CDATA[translate888888]]</value></data> 
+<data name="NOT_DNT"><value>![CDATA[translate]]</value></data> 
 <data name="DNT"><value>![CDATA[do not translate]]</value></data> 
   <data name="myPrefix_one_1">
     <value><![CDATA[one]]></value>
