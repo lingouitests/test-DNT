@@ -1,0 +1,8 @@
+{
+  "testDNT": {
+    "NOT_DNT": "15257.130639 translate",
+    "DNT": "15257.130640 do not translate"
+  },
+  "DNT": "15257.130641 do not translate",
+  "NOT_DNT": "15257.130642 translate"
+}
