@@ -1,5 +1,5 @@
 STRINGTABLE
 BEGIN
     NOT_DNT "translate"
-    DNT "do not translate"
+    DNT "do not translate111"
 END
