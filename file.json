@@ -1,8 +1,8 @@
 {
     "testDNT" : {
-    "NOT_DNT": "translate",
-    "DNT": "do not translate"
+    "NOT_DNT": "translate1111111",
+    "DNT": "do not"
     },
   "DNT": "do not translate",
-  "NOT_DNT": "translate"
+  "NOT_DNT": "111translate"
 }
